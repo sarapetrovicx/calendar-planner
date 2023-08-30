@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">sara_petrovic_rn4520</string>
+    <string name="login">Login</string>
+    <string name="email" translatable="false">Email</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="change_password">Change password</string>
+    <string name="log_out">Log out</string>
+    <string name="calendar">Calendar</string>
+    <string name="daily_plan">Daily Plan</string>
+    <string name="profile">Profile</string>
+    <string name="mon">MON</string>
+    <string name="tue">TUE</string>
+    <string name="wed">WED</string>
+    <string name="thu">THU</string>
+    <string name="fri">FRI</string>
+    <string name="sat">SAT</string>
+    <string name="sun">SUN</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="empty">You can\'t leave this field empty.</string>
+    <string name="show_past_obligations">Show past obligations</string>
+</resources>

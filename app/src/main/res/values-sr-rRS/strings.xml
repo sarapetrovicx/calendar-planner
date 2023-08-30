@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">sara_petrovic_rn4520</string>
+    <string name="login">Prijavi se</string>
+    <string name="password">Lozinka</string>
+    <string name="username">Korisničk</string>
+    <string name="change_password">Promeni lozinku</string>
+    <string name="log_out">Odjavi se</string>
+    <string name="empty">Ne možete da ostavite ovo polje praznim.</string>
+    <string name="calendar">Kalendar</string>
+    <string name="daily_plan">Dnevni Plan</string>
+    <string name="profile">Profil</string>
+    <string name="mon">PON</string>
+    <string name="tue">UTO</string>
+    <string name="wed">SRE</string>
+    <string name="thu">ČET</string>
+    <string name="fri">PET</string>
+    <string name="sat">SUB</string>
+    <string name="sun">NED</string>
+    <string name="edit">Uredi</string>
+    <string name="delete">Obriši</string>
+    <string name="show_past_obligations">Prikaži prethodne obaveze</string>
+</resources>

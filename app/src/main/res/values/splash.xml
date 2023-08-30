@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Theme.App.Starting" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/green</item>
+
+        <item name="windowSplashScreenAnimatedIcon">@mipmap/calendar2_round</item>
+
+        <item name="postSplashScreenTheme">@style/Theme.Sara_petrovic_rn4520</item>
+    </style>
+
+</resources>
